@@ -1,6 +1,6 @@
 <div align="center">
 
-# SPY
+# Ouxx-ai
 
 ### FULL-STACK DEVELOPER · SAAS BUILDER
 
@@ -8,9 +8,7 @@
 
 <br>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge\&logo=vercel\&logoColor=white)](YOUR_PORTFOLIO_URL)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge\&logo=linkedin\&logoColor=white)](YOUR_LINKEDIN_URL)
-[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge\&logo=tiktok\&logoColor=white)](YOUR_TIKTOK_URL)
+[![GitHub](https://img.shields.io/badge/GitHub-OuxX--ai-000000?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/OuxX-ai)
 
 </div>
 
@@ -34,8 +32,6 @@ A fast and minimalist financial management platform designed to help entrepreneu
 `Next.js` `TypeScript`
 `Tailwind CSS` `Supabase` `PWA`
 
-[**→ Live Demo**](YOUR_ATLAS_DEMO) · [**Repository**](YOUR_ATLAS_REPO)
-
 </td>
 
 <td width="50%" valign="top">
@@ -50,8 +46,6 @@ Management software designed for Apple-focused retailers to manage sales, invent
 
 `React` `Node.js`
 `Tailwind CSS` `MongoDB Atlas`
-
-[**→ Live Demo**](YOUR_ISTOCK_DEMO) · [**Repository**](YOUR_ISTOCK_REPO)
 
 </td>
 
@@ -72,8 +66,6 @@ A digital ordering platform that gives restaurants a modern online menu and a di
 `Astro.js` `TypeScript`
 `Tailwind CSS`
 
-[**→ Live Demo**](YOUR_RESTAURANT_DEMO) · [**Repository**](YOUR_RESTAURANT_REPO)
-
 </td>
 
 <td width="50%" valign="top">
@@ -88,8 +80,6 @@ A digital apartment concierge platform designed to simplify apartment discovery 
 
 `Next.js` `TypeScript`
 `Tailwind CSS` `Supabase`
-
-[**→ Live Demo**](YOUR_APPARTMALI_DEMO) · [**Repository**](YOUR_APPARTMALI_REPO)
 
 </td>
 
@@ -114,7 +104,7 @@ A digital apartment concierge platform designed to simplify apartment discovery 
 ![Django](https://img.shields.io/badge/Django-000000?style=flat-square\&logo=django\&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square\&logo=flask\&logoColor=white)
 ![Astro](https://img.shields.io/badge/Astro-000000?style=flat-square\&logo=astro\&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-000000?style=flat-square\&logo=tailwindcss\&logoColor=white)
+![Tailwind\_CSS](https://img.shields.io/badge/Tailwind_CSS-000000?style=flat-square\&logo=tailwindcss\&logoColor=white)
 ![PyQt6](https://img.shields.io/badge/PyQt6-000000?style=flat-square\&logo=qt\&logoColor=white)
 
 ### Databases & Backend
@@ -138,7 +128,9 @@ A digital apartment concierge platform designed to simplify apartment discovery 
 
 **A financial operating system for entrepreneurs.**
 
-`Next.js` · `TypeScript` · `Supabase` · `PWA`
+<br>
+
+`Next.js` · `TypeScript` · `Tailwind CSS` · `Supabase` · `PWA`
 
 <br>
 
@@ -152,9 +144,9 @@ A digital apartment concierge platform designed to simplify apartment discovery 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&theme=transparent" height="170">
+<img src="https://github-readme-stats.vercel.app/api?username=OuxX-ai&show_icons=true&hide_border=true&theme=transparent" height="170">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&theme=transparent" height="170">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OuxX-ai&layout=compact&hide_border=true&theme=transparent" height="170">
 
 </div>
 
@@ -162,7 +154,7 @@ A digital apartment concierge platform designed to simplify apartment discovery 
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&hide_border=true&theme=transparent">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=OuxX-ai&hide_border=true&theme=transparent">
 
 </div>
 
