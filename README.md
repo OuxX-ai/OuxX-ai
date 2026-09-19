@@ -1,6 +1,6 @@
 <div align="center">
 
-# SPY
+# OuxX
 
 ### Full-Stack Developer · SaaS Builder
 
